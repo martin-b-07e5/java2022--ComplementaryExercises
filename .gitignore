@@ -1,7 +1,19 @@
+# ignore ALL files in ANY directory named temp
+temp/
+.idea/
+lib
+out
+
+# Ignore files
+.directory
+.Apps-Java-icon.png
+java2022.iml
+
+# ----------------------------------------------------------------------
 # Compiled class file
 *.class
 
-# Log file
+# Ignore ALL Log file
 *.log
 
 # BlueJ files
