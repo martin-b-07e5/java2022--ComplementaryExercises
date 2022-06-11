@@ -1,9 +1,15 @@
+# ----------------------------------------------------------------------
 # ignore ALL files in ANY directory named temp
 temp/
 .idea/
 lib
 out
-
+_02_Collections
+_03_POO
+_04_Activities
+_07_1PracticeSolved
+_07_2_ComplementaryExercises_L2
+# ------------------------------
 # Ignore files
 .directory
 .Apps-Java-icon.png
@@ -33,3 +39,4 @@ java2022.iml
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+# ----------------------------------------------------------------------
