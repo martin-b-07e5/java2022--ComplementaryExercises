@@ -14,8 +14,7 @@ _07_1PracticeSolved/
 .Apps-Java-icon.png
 java2022.iml
 .git.png
-
-src/com/.git.png
+# src/com/.git.png
 # ----------------------------------------------------------------------
 # Compiled class file
 *.class
