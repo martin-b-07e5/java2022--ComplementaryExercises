@@ -46,11 +46,11 @@ public class Ex7_FizzBuzz {
       // load the ArrayList
       for (int i = n1; i < n2; i++) {
         if ((i % 2 == 0) && (i % 3 == 0)) {
-          arrayOfStrings.add(String.valueOf("FizzBuzz"));
+          arrayOfStrings.add("FizzBuzz");
         } else if (i % 2 == 0) {
-          arrayOfStrings.add(String.valueOf("Fizz"));
+          arrayOfStrings.add("Fizz");
         } else if (i % 3 == 0) {
-          arrayOfStrings.add(String.valueOf("Buzz"));
+          arrayOfStrings.add("Buzz");
         } else {
           arrayOfStrings.add(String.valueOf(i));
         }
