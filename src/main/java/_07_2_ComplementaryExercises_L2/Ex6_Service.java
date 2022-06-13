@@ -70,6 +70,7 @@ public class Ex6_Service extends Ex6_Employee {
     for (Ex6_Employee i : employeesHS) {
       employeesSalaryHM.put(i.getDNI(), i.salary());
     }
+    //  employeesHS.forEach(e -> employeesSalaryHM.put(e.getDNI(), e.salary()));
 
     System.out.println("\nshow HashMap");
     /*
