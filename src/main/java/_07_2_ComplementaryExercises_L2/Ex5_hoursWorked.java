@@ -54,7 +54,7 @@ public class Ex5_hoursWorked {
 /* print additional information
     int weeklyTotalX = 0;
     for (int i = 0; i < totalPerDay.size(); i++) {
-      System.out.println("\nday " + (i + 1) +
+      System.out.println("\nDay " + (i + 1) +
           "\nHours Worked: " + hoursWorked.get(i) +
           "\nHourly rate: U$D " + hourlyRate.get(i) +
           "\nTotal day: U$D " + totalPerDay.get(i)
