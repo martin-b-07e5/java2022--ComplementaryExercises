@@ -44,6 +44,7 @@ public class Ex5_Multiplication {
       }
 
     }
+    sc.close();
 
   }
 

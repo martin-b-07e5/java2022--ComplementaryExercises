@@ -1,7 +1,5 @@
 package _07_2_ComplementaryExercises_L1;
 
-import org.jetbrains.annotations.NotNull;
-
 import java.util.Scanner;
 
 /* Ex7_Uppercase
@@ -36,8 +34,8 @@ public class Ex7_Uppercase {
     System.out.println("string in lowercase is: " + myToLower(aString));
   }
 
-  static @NotNull String myToUpper(@NotNull String s) {
-//    String result = "";
+  static String myToUpper(String s) {
+    // String result = "";
     StringBuilder result = new StringBuilder();
     for (int i = 0; i < s.length(); i++) {
       char aChar;
@@ -46,14 +44,14 @@ public class Ex7_Uppercase {
       } else {
         aChar = s.charAt(i);
       }
-//      result += aChar;
+      // result += aChar;
       result.append(aChar);
     }
     return result.toString();
   }
 
-  static @NotNull String myToLower(@NotNull String s) {
-//    String result = "";
+  static String myToLower(String s) {
+    // String result = "";
     StringBuilder result = new StringBuilder();
     for (int i = 0; i < s.length(); i++) {
       char aChar;
@@ -62,7 +60,7 @@ public class Ex7_Uppercase {
       } else {
         aChar = s.charAt(i);
       }
-//      result += aChar;
+      // result += aChar;
       result.append(aChar);
     }
     return result.toString();

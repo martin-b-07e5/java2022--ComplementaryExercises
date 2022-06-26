@@ -13,6 +13,7 @@ public class Ex6_Power {
     base = sc.nextInt();
     System.out.println("Input the positive exponent");
     exponent = sc.nextInt();
+    sc.close();
 
     int result = 1;
     for (int i = 1; i <= exponent; i++) {

@@ -15,6 +15,7 @@ public class Ex4_Factorial {
 
     Scanner sc = new Scanner(System.in);
     int number = sc.nextInt();
+    sc.close();
 
     int fact = 1;
     for (int i = 1; i < number; i++) {

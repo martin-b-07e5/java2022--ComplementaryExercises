@@ -15,6 +15,7 @@ public class Ex2_MathOperations {
     Scanner sc = new Scanner(System.in);
     int number1 = sc.nextInt();
     int number2 = sc.nextInt();
+    sc.close();
 
     int addition = number1 + number2;
     int subtraction = number1 - number2;

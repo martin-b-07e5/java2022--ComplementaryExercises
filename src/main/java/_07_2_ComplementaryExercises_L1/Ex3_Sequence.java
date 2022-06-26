@@ -1,7 +1,5 @@
 package _07_2_ComplementaryExercises_L1;
 
-import java.util.Scanner;
-
 /* Ex3_Sequence
 Write a program that, given an integer as input data,
  prints a sequence of number (increments of 1) as follows:
@@ -14,6 +12,9 @@ Write a program that, given an integer as input data,
     1 2 3 4
     1 2 3 4 5
 */
+
+import java.util.Scanner;
+
 public class Ex3_Sequence {
 
   public static void main(String[] args) {
