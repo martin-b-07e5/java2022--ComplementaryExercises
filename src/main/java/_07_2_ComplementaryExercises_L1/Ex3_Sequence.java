@@ -20,6 +20,7 @@ public class Ex3_Sequence {
     System.out.println("input number");
     Scanner sc = new Scanner(System.in);
     int number = sc.nextInt();
+    sc.close();
 
     for (int i = 0; i < number; i++) {
       for (int j = 1; j <= i + 1; j++) {
