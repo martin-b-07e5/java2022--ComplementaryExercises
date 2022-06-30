@@ -14,9 +14,9 @@ public class Ex1_Hello {
     System.out.println("Input name");
     Scanner scanner = new Scanner(System.in);
     String name = scanner.nextLine();
-   scanner.close();
+    scanner.close();
 
-    System.out.println("HELLO " + name.toUpperCase() + "!!!");
+    System.out.println("HELLO " + name + "!!!");
 
   }
 
