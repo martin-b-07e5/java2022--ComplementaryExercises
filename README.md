@@ -1,6 +1,21 @@
-# java2022
-- 👋 Hi, I’m @martin-b-07e5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java, JavaScript, React, Testing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: <a href="https://tinyurl.com/yc8c53kw" title="email" target="_blank">by email</a>
+_07_2_ComplementaryExercises_L1
+Ex1_Hello.java
+Ex2_MathOperations.java
+Ex3_Sequence.java
+Ex4_Factorial.java
+Ex5_Multiplication.java
+Ex6_Power.java
+Ex7_Uppercase.java
+Ex8_Person.java
+Ex9_Letter.java
+
+_07_2_ComplementaryExercises_L2
+Ex1_ArrayList.java
+Ex2_ArrayList.java
+Ex3_Cards.java
+Ex3_x.java
+Ex4_subList.java
+Ex5_hoursWorked.java
+Ex6_Employee.java
+Ex6_Service.java
+Ex7_FizzBuzz.java
