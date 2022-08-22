@@ -20,4 +20,12 @@ Ex5_hoursWorked.java
 Ex6_Employee.java
 Ex6_Service.java
 Ex7_FizzBuzz.java
+
+_10_2_ComplementaryExercises_L3
+Ex1.java
+Ex2.java
+Ex3.java
+Ex4.java
+Ex5.java
+Ex5_Student.java
 </pre>
